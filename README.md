@@ -11,3 +11,22 @@
 <p align="center">
   a lightweight, python based linux performance analyzer and somewhat utility program.
 </p>
+
+
+
+
+<h1 align="center">Installtion</h1>
+<br>
+<p align="center">
+```
+git clone https://github.com/razoblast/pulse.git
+cd pulse
+
+python -m venv .venv
+source .venv/bin/activate
+
+pip install -e .
+
+```
+</p>
+
