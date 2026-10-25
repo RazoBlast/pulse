@@ -5,17 +5,9 @@
   <a href="https://github.com/razoblast/pulse/forks"><img src="https://img.shields.io/github/forks/razoblast/pulse?style=for-the-badge&label=FORKS" alt="Forks"></a>
 </p>
 
-<p align="center">
-  <a href="#features"><img src="https://img.shields.io/badge/FEATURES-76C7E8?style=for-the-badge&color=76C7E8" alt="Features"></a>
-  <a href="#installation"><img src="https://img.shields.io/badge/INSTALLATION-8BE28B?style=for-the-badge&color=8BE28B" alt="Installation"></a>
-  <a href="#configuration"><img src="https://img.shields.io/badge/CONFIGURATION-F4B6C2?style=for-the-badge&color=F4B6C2" alt="Configuration"></a>
-</p>
 
 <h1 align="center">Pulse</h1>
 
 <p align="center">
-  A lightweight, customizable performance overlay for Linux.
+  a lightweight, python based linux performance analyzer and somewhat utility program.
 </p>
-
-# pulse
-a lightweight, python based linux performance analyzer and somewhat utility program.
