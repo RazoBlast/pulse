@@ -16,14 +16,14 @@
 <h1 align="center">Pulse</h1>
 
 <p align="center">
-  A lightweight, Python-based Linux performance analyzer and utility application.
+  a lightweight, Python-based Linux performance analyzer and utility application.
 </p>
 
 ---
 
 ## Overview
 
-Pulse is a Linux utility designed to analyze system performance and provide useful system information through a lightweight interface.
+pulse is a Linux utility designed to analyze system performance and provide useful system information through a lightweight interface.
 
 ## Installation
 
@@ -36,19 +36,19 @@ Pulse is a Linux utility designed to analyze system performance and provide usef
 ### Setup
 
 ```bash
-git clone https://github.com/razoblast/pulse.git
-cd pulse
+$ git clone https://github.com/razoblast/pulse.git
+$ cd pulse
 
-python -m venv .venv
-source .venv/bin/activate
+$ python -m venv .venv
+$ source .venv/bin/activate
 
-pip install -e .
+$ pip install -e .
 ```
 
 ## Usage
 
 ```bash
-python main.py
+$ python main.py
 ```
 
 ## License
